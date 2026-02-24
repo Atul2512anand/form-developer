@@ -1,0 +1,5 @@
+{
+  "name": "PromptForms",
+  "description": "An AI-powered form builder that generates complex form schemas from natural language prompts and submits responses directly to Google Sheets.",
+  "requestFramePermissions": []
+}
